@@ -2,13 +2,13 @@
 # Home_Sales
 ```
 **
-# Introduction 
+**# Introduction **
 This repository uses SparkSQL to determine key metrics about home sales data and creating temporary views, partitioning the data, cache and uncache a temporary table, and verifying that the table has been uncached, using Spark.
 # 
-Download the files to get started 
+**Download the files to get started **
 https://static.bc-edx.com/data/dl-1-2/m22/lms/starter/Starter_Code.zip
 
-# Instructions for the Analysis
+**# Instructions for the Analysis**
 1 - Create a Spark DataFrame from the dataset.
 
 2 - Create a temporary table of the original DataFrame.
